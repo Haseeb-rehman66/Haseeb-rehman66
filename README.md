@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with 3 years of
 - 🌱 I’m always eager to learn new technologies and improve my skills.
 - 👯 I’m looking to collaborate on open source projects and innovative startups.
 - 💬 Ask me about anything related to React, Node.js, JavaScript, and web development in general.
-- 📫 How to reach me: [haseeb_rehman666](mailto:haseeb_rehman666@yahoo.com)
+- 📫 How to reach me: [Haseeb Rehman](mailto:haseeb_rehman666@yahoo.com)
 - ⚡ Fun fact: I enjoy hiking and photography in my free time.
 
 ## Tech Stack
