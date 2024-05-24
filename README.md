@@ -25,4 +25,4 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ---
 
-*This README was last updated on [24th May, 2024].*
+*This README was last updated on May, 2024.*
